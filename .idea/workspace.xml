@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e904175b-dd8c-4098-a1c5-6cf7fb400848" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Case_Study 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Smart_University/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorators/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/descriptors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/descriptors/marks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/descriptors/salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/department.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/faculty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/file_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/iterators.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38Woi36XKIAuYLtkHPRiIoYiyye" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.course.executor&quot;: &quot;Run&quot;,
+    &quot;Python.faculty.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.marks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e904175b-dd8c-4098-a1c5-6cf7fb400848" name="Changes" comment="" />
+      <created>1768924811935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768924811935</updated>
+      <workItem from="1768924813020" duration="4547000" />
+      <workItem from="1768930650783" duration="693000" />
+      <workItem from="1768931363918" duration="893000" />
+      <workItem from="1768932275428" duration="1444000" />
+      <workItem from="1768968509797" duration="3013000" />
+      <workItem from="1768973561303" duration="4113000" />
+      <workItem from="1768977706151" duration="1739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Case_Study_1$marks.coverage" NAME="marks Coverage Results" MODIFIED="1768971106456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/descriptors" />
+    <SUITE FILE_PATH="coverage/Case_Study_1$student.coverage" NAME="student Coverage Results" MODIFIED="1768971054536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Case_Study_1$main.coverage" NAME="main Coverage Results" MODIFIED="1768977994705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Smart_University" />
+    <SUITE FILE_PATH="coverage/Case_Study_1$file_manager.coverage" NAME="file_manager Coverage Results" MODIFIED="1768976669639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Case_Study_1$course.coverage" NAME="course Coverage Results" MODIFIED="1768933523461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Case_Study_1$faculty.coverage" NAME="faculty Coverage Results" MODIFIED="1768971150552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+  </component>
+</project>
