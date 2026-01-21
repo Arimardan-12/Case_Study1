@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e904175b-dd8c-4098-a1c5-6cf7fb400848" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Case_Study 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Smart_University/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/descriptors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/descriptors/marks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/descriptors/salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/course.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/department.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/faculty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/file_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/iterators.py" afterDir="false" />
+    <list default="true" id="e904175b-dd8c-4098-a1c5-6cf7fb400848" name="Changes" comment="Case study">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +18,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Arimardan-12"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8c78323c-1f9c-4b77-b9bd-7ebed4a2c039" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Arimardan-12/Case_Study1.git",
+    "accountId": "8c78323c-1f9c-4b77-b9bd-7ebed4a2c039"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -54,24 +52,26 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.course.executor&quot;: &quot;Run&quot;,
-    &quot;Python.faculty.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.marks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.student.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.course.executor": "Run",
+    "Python.faculty.executor": "Run",
+    "Python.file_manager.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.marks.executor": "Run",
+    "Python.student.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "Projects",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,12 +93,36 @@
       <workItem from="1768932275428" duration="1444000" />
       <workItem from="1768968509797" duration="3013000" />
       <workItem from="1768973561303" duration="4113000" />
-      <workItem from="1768977706151" duration="1739000" />
+      <workItem from="1768977706151" duration="4636000" />
     </task>
+    <task id="LOCAL-00001" summary="Case study">
+      <option name="closed" value="true" />
+      <created>1768979990752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768979990752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Case study" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case study" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Case_Study_1$marks.coverage" NAME="marks Coverage Results" MODIFIED="1768971106456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/descriptors" />
