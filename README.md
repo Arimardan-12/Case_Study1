@@ -64,4 +64,4 @@ python main.py
 
 
 
-⭐ *Academic mini-project for mastering Python OOP*
+⭐ *Wipro training case study problem 1 for mastering Python OOP*
